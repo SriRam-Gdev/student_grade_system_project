@@ -12,3 +12,4 @@ D:\student grade sysyem\CsharpProjects\TestProject\obj\Debug\net8.0\refint\TestP
 D:\student grade sysyem\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
 D:\student grade sysyem\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 D:\student grade sysyem\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+D:\student grade sysyem\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
